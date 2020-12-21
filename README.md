@@ -4,3 +4,4 @@ Here, I use Qskit to demostrate how to write the quantum circuit. Initially, all
 # Bit flip code
 The bit flip code is a simple code to demostrate how the quantum algorithm to correct the errors generated from the noise. Here, we also design a error simulator which flips the qubit with probability p. In Qskit, quantum gates, qubits, and measurement are prefect. However, in real quantum computer, the physical qubit will decohere due to the noise. The logical gate cannot operate the qubit well. There are lots of factors inducing the errors in the quantum computation. Therefore, for the quantum algorithm, one can design the code to correct the error from noise. The bit flip code is one of quantum error correction code and the most simple one. 
 
+# Superdense Code
