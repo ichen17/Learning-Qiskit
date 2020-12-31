@@ -8,5 +8,5 @@ The bit flip code is a simple code to demostrate how the quantum algorithm to co
 The superdense Code is similiar to the quantum teleportation. However, the difference between them is the information they send. For the superdense code, the code is used to transport the classical information like '00', '01'. On the other hand, the quantum teleportation is used to transport quantum information like superposition of '01' and '00'. 
 
 # Deutsch-Jozsa Algorithm
-Algorithm is the first quantum algorithm that demostrate Quantum algorithm faster than the best classical algorithm. Deutsch-Jozsa problem to identify whether f(x) is a balenced function or a constant function. 
+Deutsch-Jozsa Algorithm is the first quantum algorithm that demostrate Quantum algorithm faster than the best classical algorithm. Deutsch-Jozsa problem to identify whether f(x) is a balenced function or a constant function. 
 
