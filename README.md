@@ -12,3 +12,5 @@ The superdense Code is similiar to the quantum teleportation. However, the diffe
 # Deutsch-Jozsa Algorithm
 Deutsch-Jozsa Algorithm is the first quantum algorithm that demostrate Quantum algorithm faster than the best classical algorithm. Deutsch-Jozsa problem to identify whether f(x) is a balenced function or a constant function. 
 
+# Bernstein-Vazirani Algorithm
+
