@@ -9,7 +9,7 @@ Here, we use two ancilla qubits to encode the information from a physical qubit.
 # Superdense Code
 The superdense Code is similiar to the quantum teleportation. However, the difference between them is the information they send. For the superdense code, the code is used to transport the classical information like '00', '01'. On the other hand, the quantum teleportation is used to transport quantum information like superposition of '01' and '00'. 
 
-In Qiskit textbook, it explains the third party will prepare the Bell pair and send one of them to Alice and another of them to Bob. Alice make the operation on her own qubit and send it to Bob. Therefore, by just disentangling the Bell pair, Bob will know the information that Alice send.    
+In Qiskit textbook, it explains that the third party will prepare the Bell pair and send one of them to Alice and another of them to Bob. Alice make the operation on her own qubit and send it to Bob. Therefore, by just disentangling the Bell pair, Bob will know the information that Alice send.    
 
 # Deutsch-Jozsa Algorithm
 Deutsch-Jozsa Algorithm is the first quantum algorithm that demostrate Quantum algorithm faster than the best classical algorithm. Deutsch-Jozsa problem to identify whether f(x) is a balenced function or a constant function. 
