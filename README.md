@@ -16,3 +16,4 @@ Deutsch-Jozsa Algorithm is the first quantum algorithm that demostrate Quantum a
 
 # Bernstein-Vazirani Algorithm
 
+# Simon's Algorithm
