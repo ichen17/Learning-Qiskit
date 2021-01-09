@@ -17,3 +17,4 @@ Deutsch-Jozsa Algorithm is the first quantum algorithm that demostrate Quantum a
 # Bernstein-Vazirani Algorithm
 
 # Simon's Algorithm
+The Simon's Algorithm is used to identify whether the function is one to one or two to one function. 
