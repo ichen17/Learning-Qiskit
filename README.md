@@ -12,7 +12,7 @@ The superdense Code is similiar to the quantum teleportation. However, the diffe
 In Qiskit textbook, it explains that the third party will prepare the Bell pair and send one of them to Alice and another of them to Bob. Alice make the operation on her own qubit and send it to Bob. Therefore, by just disentangling the Bell pair, Bob will know the information that Alice send.    
 
 # Deutsch-Jozsa Algorithm
-Deutsch-Jozsa Algorithm is the first quantum algorithm that demostrate Quantum algorithm faster than the best classical algorithm. Deutsch-Jozsa problem to identify whether f(x) is a balenced function or a constant function. 
+Deutsch-Jozsa Algorithm is the first quantum algorithm that demostrate Quantum algorithm faster than the best classical algorithm. Deutsch-Jozsa problem to identify whether f(x) is a balenced function or a constant function. If f(x) is a balanced function, given N inputs, half of outputs will be 1 and another half of them will be 0. On the other hand, if f(x) is a constant function, all of outputs will be zeross or ones.  
 
 # Bernstein-Vazirani Algorithm
 
